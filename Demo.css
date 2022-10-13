@@ -1,0 +1,25 @@
+.menu ul{
+    display: flex;
+
+}
+.menu ul li{
+    margin: 0 50px;
+    color: aliceblue;
+}
+.menu{
+    display: flex;
+}
+.bbutton{
+    border-radius: 50px; ;
+    height: 45px;
+    width: 130px;
+    color: greenyellow ;
+    background-color: gray ;
+}
+.abutton{
+    border-radius: 50px; ;
+    height: 45px;
+    width: 130px;
+    color: gray ;
+    background-color: greenyellow ;
+}
